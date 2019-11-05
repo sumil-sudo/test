@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9A37-3B24
+
+ Directory of C:\Users\sumkatiy\Desktop\myproject
+
+11/05/2019  11:05 PM    <DIR>          .
+11/05/2019  11:05 PM    <DIR>          ..
+11/05/2019  11:05 PM                 0 tt.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  161,370,578,944 bytes free
