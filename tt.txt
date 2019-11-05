@@ -1,4 +1,6 @@
- Volume in drive C is OS
+fffffffffffffffffffffffffffffffff
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
  Volume Serial Number is 9A37-3B24
 
  Directory of C:\Users\sumkatiy\Desktop\myproject
